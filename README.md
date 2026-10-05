@@ -38,8 +38,9 @@
 | Project | What it does | Tech |
 |---|---|---|
 | [**Smart Campus Lost & Found**](https://github.com/SarangRaj01/YOUR-REPO) | Centralised lost/found database with a weighted matching engine (confidence %), claim verification, ACID handover and analytics dashboard | MySQL, SQL triggers & procedures, HTML/JS |
-| **Project 2** | One line on what it does | Tech used |
-| **Project 3** | One line on what it does | Tech used |
+| [**SDE_GUIDE**](https://github.com/SarangRaj01/SDE_GUIDE) | Comprehensive Software Development Engineer study guide covering DSA, programming, DBMS, Operating Systems, Computer Networks, OOP, System Design, Git/GitHub and Backend Development | HTML |
+| [**Portfolio**](https://github.com/SarangRaj01/Portfolio) | My personal portfolio website | JavaScript |
+| [**LOG_FIELD**](https://github.com/SarangRaj01/LOG_FIELD) | Web project built with HTML | HTML |
 
 ---
 
