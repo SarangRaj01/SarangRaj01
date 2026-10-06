@@ -54,33 +54,37 @@ const sarang = {
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🎒 Smart Campus Lost &amp; Found</h3>
-      <p>A database-driven system that automatically matches lost items with found reports across campus.</p>
-      <p><code>MySQL</code> <code>Node.js</code> <code>Express</code> <code>React</code></p>
-      <a href="https://github.com/SarangRaj01/YOUR_REPO_NAME">🔗 View Repository</a>
+      <h3>🎒 Smart Campus Backend</h3>
+      <p>Backend for the Smart Campus Lost &amp; Found system: a database-driven platform with automated item matching.</p>
+      <p><code>JavaScript</code> <code>Node.js</code> <code>Express</code> <code>MySQL</code></p>
+      <a href="https://github.com/SarangRaj01/smart-campus-backend">🔗 View Repository</a>
     </td>
     <td width="50%" valign="top">
-      <h3>📦 Project Two</h3>
-      <p>One punchy sentence about what it does and the problem it solves.</p>
-      <p><code>MongoDB</code> <code>Express</code> <code>React</code> <code>Node.js</code></p>
-      <a href="https://github.com/SarangRaj01/YOUR_REPO_NAME">🔗 View Repository</a>
+      <h3>📚 SDE Guide</h3>
+      <p>A comprehensive SDE study guide covering DSA, DBMS, OS, Computer Networks, OOP, System Design, Git/GitHub and backend development.</p>
+      <p><code>HTML</code> <code>DSA</code> <code>System Design</code> <code>CS Fundamentals</code></p>
+      <a href="https://github.com/SarangRaj01/SDE_GUIDE">🔗 View Repository</a>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>📊 Project Three</h3>
-      <p>A data science or ML project: what data, what model, what result.</p>
-      <p><code>Python</code> <code>Pandas</code> <code>Scikit-learn</code></p>
-      <a href="https://github.com/SarangRaj01/YOUR_REPO_NAME">🔗 View Repository</a>
+      <h3>🌐 Portfolio</h3>
+      <p>My personal portfolio website showcasing my projects, skills and journey as a developer.</p>
+      <p><code>JavaScript</code> <code>HTML</code> <code>CSS</code></p>
+      <a href="https://github.com/SarangRaj01/Portfolio">🔗 View Repository</a>
     </td>
     <td width="50%" valign="top">
-      <h3>⚙️ Project Four</h3>
-      <p>Something backend or algorithm-heavy you're proud of.</p>
-      <p><code>Java</code> <code>DSA</code></p>
-      <a href="https://github.com/SarangRaj01/YOUR_REPO_NAME">🔗 View Repository</a>
+      <h3>🧭 LOG_FIELD</h3>
+      <p>Front-end project built with HTML. <!-- TODO: replace with a one-line description of what LOG_FIELD does --></p>
+      <p><code>HTML</code> <code>CSS</code></p>
+      <a href="https://github.com/SarangRaj01/LOG_FIELD">🔗 View Repository</a>
     </td>
   </tr>
 </table>
+
+<div align="center">
+  <a href="https://github.com/SarangRaj01?tab=repositories"><img src="https://img.shields.io/badge/See%20all%20repositories-8b5cf6?style=for-the-badge&logo=github&logoColor=white" alt="all repos" /></a>
+</div>
 
 <br/>
 
